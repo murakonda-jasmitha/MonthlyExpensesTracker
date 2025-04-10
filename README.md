@@ -27,7 +27,7 @@ It is designed for simplicity — no databases, no special libraries, and no ext
 
 Each line in the CSV file should follow this format:
 
-`.csv`
+`.csv`<br>
 Date,Description,Amount,Type<br>
 01-04-2025,Salary,50000,INCOME<br>
 03-04-2025,Rent,15000,EXPENSE_RENT<br>
