@@ -16,7 +16,6 @@ This project helps users track their **monthly income and expenses** efficiently
 It is designed for simplicity — no databases, no special libraries, and no external dependencies.
 
 ---
-
 ## 📂 Files Included
 
 - `MonthlyFinanceTracker2.java` → Java source file  
@@ -24,6 +23,14 @@ It is designed for simplicity — no databases, no special libraries, and no ext
 
 ---
 
+## 📄 CSV Format
+
+Each line in the CSV file should follow this format:
+
+`.csv`
+Date,Description,Amount,Type
+01-04-2025,Salary,50000,INCOME
+03-04-2025,Rent,15000,EXPENSE_RENT
 
 ## Author
 
